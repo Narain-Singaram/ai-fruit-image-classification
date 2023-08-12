@@ -1,1 +1,1 @@
-# ai-fruit-image-classification
+# AI Fruit Image Classification Project
